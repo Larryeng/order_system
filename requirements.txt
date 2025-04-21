@@ -1,0 +1,9 @@
+flask
+flask_socketio
+flask_cors
+eventlet
+requests
+qrcode
+openpyxl
+pyttsx3
+Pillow

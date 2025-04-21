@@ -1,0 +1,22 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .btn {
+    border-radius: 8px;
+  }
+  
+  .order-id {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #ff5722;
+    animation: pop 0.6s ease-out;
+  }
+  
+  @keyframes pop {
+    0% { transform: scale(0.8); opacity: 0.5; }
+    50% { transform: scale(1.2); opacity: 1; }
+    100% { transform: scale(1); }
+  }
+  
